@@ -1,2 +1,2 @@
-# Data-Aquisition
+# Data-Aquisition and Manipulation
 Data Aquisition
